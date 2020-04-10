@@ -1,13 +1,4 @@
----
-title: "README"
-author: "Lan Mu"
-date: "4/10/2020"
-output: pdf_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 #Getting and Cleaning Data Course Project
 This dataset includes the following files:
@@ -23,4 +14,4 @@ The run_analysis does the following:
 4.Appropriately labels the data set with descriptive variable names.
 5.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The tidy data set outputted at the end is stored as "TidyData.txt".
+The tidy dataset output at the end is stored as "TidyData.txt".
